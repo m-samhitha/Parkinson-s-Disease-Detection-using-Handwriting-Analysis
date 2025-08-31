@@ -1,1 +1,1 @@
-# Parkinson-s-Disease-Detection-using-Vocal-Features
+# Parkinson-s-Disease-Detection-using-Handwriting-Analysis
