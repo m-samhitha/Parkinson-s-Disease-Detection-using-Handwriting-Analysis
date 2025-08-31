@@ -123,6 +123,3 @@ print(f"Final Test Accuracy: {acc*100:.2f}%")
 2.	Gayathri Mocharla
     Email: mocharlagayathri@gmail.com
 
-
-
-If you want, I can also make a **shorter, GitHub-friendly version with badges and a clean layout** that looks very professional on the repo page. Do you want me to do that?
