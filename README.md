@@ -18,18 +18,8 @@ https://drive.google.com/drive/folders/1LF6WhycNwusBbwtB-R5qCGL5YSQxsbk0?usp=sha
 
 The dataset should be organized as follows:
 
-Parkinsons/
-│
-├── training/
-│   ├── healthy/
-│   └── parkinson/
-│
-└── testing/
-    ├── healthy/
-    └── parkinson/
+<img width="366" height="750" alt="image" src="https://github.com/user-attachments/assets/7dd1687e-faeb-44d4-af99-3ad36286844d" />
 
-
-> Make sure to update `base_dir` in the code with the path to your dataset in Google Drive.
 
 ## Requirements
 
